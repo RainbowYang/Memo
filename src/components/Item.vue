@@ -3,11 +3,10 @@
     <template #header>
       <div id="operation">
         <ItemEditor :originItem="item" style="display:inline-block"/>
-        <ItemRemover :item="item" @remove="remove(item)"/>
+        <ItemRemover @remove="remove(item)"/>
       </div>
     </template>
     <el-descriptions :column="1" border>
-
       <el-descriptions-item>
         <template #label><i class="el-icon-user"></i>
           {{ $t('Author') }}

@@ -1,6 +1,6 @@
 {
   "en": "English",
-  "zh-cn": "简体中文",
+  "zh-cn": "简体中文 - Chinese",
   "Progress Manager": "Progress Manager",
   "book": "Books",
   "movie": "Movies",
@@ -23,5 +23,10 @@
   "Cancel": "Cancel",
   "localeTitle": "  <i>{0}</i>",
   "tips": "All data is stored locally",
-  "message": "hello i18n !!"
+  "message": "hello i18n !!",
+  "Operations": "Operations",
+  "copy": "Copy",
+  "Export": "Export",
+  "Import": "Import",
+  "OK": "Okay"
 }

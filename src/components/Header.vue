@@ -7,7 +7,6 @@
       <el-tooltip class="item" effect="dark" :content="$t('tips')" placement="bottom-start">
         <i class="el-icon-info"></i>
       </el-tooltip>
-
     </div>
     <LocaleChanger/>
   </el-header>
